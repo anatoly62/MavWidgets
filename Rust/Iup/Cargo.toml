@@ -1,0 +1,12 @@
+[package]
+name = "riup"
+version = "0.3.1"
+authors = ["anatoly"]
+links = "IUP"
+build = "build.rs"
+
+[lib]
+name = "riup"
+
+[dependencies]
+libc = "0.1"

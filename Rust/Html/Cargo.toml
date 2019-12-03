@@ -1,0 +1,19 @@
+[package]
+
+name = "rdom"
+version = "0.3.1"
+license = "MIT"
+description = "APIs for the web platform for cross-compiled Rust to JS."
+authors = ["Tim Cameron Ryan <tim@timryan.org>"]
+repository = "https://github.com/anatoly62/rust-webplatform"
+homepage = "https://github.com/anatoly62/rust-webplatform"
+
+[[bin]]
+name = "webplatform-test"
+
+[lib]
+name = "rdom"
+path = "src/lib.rs"
+
+[dependencies]
+libc = "0.2.16"
