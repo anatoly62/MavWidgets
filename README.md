@@ -1,2 +1,2 @@
 # MavWidgets
-Haskeel
+Haskell
