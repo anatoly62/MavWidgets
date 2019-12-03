@@ -1,2 +1,2 @@
 # MavWidgets
-Haskell
+Multilanguage Gui toolkit
